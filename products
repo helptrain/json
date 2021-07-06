@@ -7,7 +7,7 @@
     "GraphicName": "crashb.png",
     "CostPrice": 25,
     "MSRP": 50,
-    "QtyOnHand": 50,
+    "QtyOnHand": "50",
     "QtyOnBackOrder": 25,
     "Description": "This is a temple-run type game with a furry mascot"
   },
