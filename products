@@ -1,7 +1,7 @@
 [
   {
     "Id": "P000001",
-    "BrandId": "2",
+    "BrandId": "Playstation",
     "Timer": "0x00000000000007D9",
     "ProductName": "Crash Bandicoot",
     "GraphicName": "crashb.png",
@@ -13,7 +13,7 @@
   },
   {
     "Id": "P000002",
-    "BrandId": "2",
+    "BrandId": "Playstation",
     "Timer": "0x00000000000007DA",
     "ProductName": "God of War",
     "GraphicName": "gow.png",
@@ -25,7 +25,7 @@
   },
   {
     "Id": "P000003",
-    "BrandId": "2",
+    "BrandId": "Playstation",
     "Timer": "0x00000000000007DB",
     "ProductName": "God of War 2",
     "GraphicName": "gow2.png",
@@ -37,7 +37,7 @@
   },
   {
     "Id": "P000004",
-    "BrandId": "2",
+    "BrandId": "Playstation",
     "Timer": "0x00000000000007DC",
     "ProductName": "God of War 3",
     "GraphicName": "gow3.png",
@@ -49,7 +49,7 @@
   },
   {
     "Id": "P000005",
-    "BrandId": "2",
+    "BrandId": "Playstation",
     "Timer": "0x00000000000007DD",
     "ProductName": "Spyro",
     "GraphicName": "spyro.png",
@@ -61,7 +61,7 @@
   },
   {
     "Id": "S000001",
-    "BrandId": "3",
+    "BrandId": "Switch",
     "Timer": "0x00000000000007DE",
     "ProductName": "Mario Party 8",
     "GraphicName": "marioparty.png",
@@ -73,7 +73,7 @@
   },
   {
     "Id": "S000002",
-    "BrandId": "3",
+    "BrandId": "Switch",
     "Timer": "0x00000000000007DF",
     "ProductName": "Mario Kart 12",
     "GraphicName": "mariokart.png",
@@ -85,7 +85,7 @@
   },
   {
     "Id": "S000003",
-    "BrandId": "3",
+    "BrandId": "Switch",
     "Timer": "0x00000000000007E0",
     "ProductName": "Mario Galaxy",
     "GraphicName": "mariogalaxy.png",
@@ -97,7 +97,7 @@
   },
   {
     "Id": "S000004",
-    "BrandId": "3",
+    "BrandId": "Switch",
     "Timer": "0x00000000000007E1",
     "ProductName": "Pokemon Snap",
     "GraphicName": "pokesnap.png",
@@ -109,7 +109,7 @@
   },
   {
     "Id": "S000005",
-    "BrandId": "3",
+    "BrandId": "Switch",
     "Timer": "0x00000000000007E2",
     "ProductName": "Breath of the Wild",
     "GraphicName": "botw.png",
@@ -121,7 +121,7 @@
   },
   {
     "Id": "X000001",
-    "BrandId": "1",
+    "BrandId": "Xbox",
     "Timer": "0x00000000000007D4",
     "ProductName": "Halo",
     "GraphicName": "halo.png",
@@ -133,7 +133,7 @@
   },
   {
     "Id": "X000002",
-    "BrandId": "1",
+    "BrandId": "Xbox",
     "Timer": "0x00000000000007D5",
     "ProductName": "Halo 2",
     "GraphicName": "halo2.png",
@@ -145,7 +145,7 @@
   },
   {
     "Id": "X000003",
-    "BrandId": "1",
+    "BrandId": "Xbox",
     "Timer": "0x00000000000007D6",
     "ProductName": "Halo 3",
     "GraphicName": "halo3.png",
@@ -157,7 +157,7 @@
   },
   {
     "Id": "X000004",
-    "BrandId": "1",
+    "BrandId": "Xbox",
     "Timer": "0x00000000000007D7",
     "ProductName": "Halo 4",
     "GraphicName": "halo4.png",
@@ -169,7 +169,7 @@
   },
   {
     "Id": "X000005",
-    "BrandId": "1",
+    "BrandId": "Xbox",
     "Timer": "0x00000000000007D8",
     "ProductName": "Halo 5",
     "GraphicName": "halo5.png",
