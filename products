@@ -5,10 +5,10 @@
     "Timer": "0x00000000000007D9",
     "ProductName": "Crash Bandicoot",
     "GraphicName": "crashb.png",
-    "CostPrice": "50",
+    "CostPrice": "509.99",
     "MSRP": "50",
-    "QtyOnHand": "25",
-    "QtyOnBackOrder": "25",
+    "QtyOnHand": "1",
+    "QtyOnBackOrder": "0",
     "Description": "This is a temple-run type game with a furry mascot"
   },
   {
@@ -65,7 +65,7 @@
     "Timer": "0x00000000000007DE",
     "ProductName": "Mario Party 8",
     "GraphicName": "marioparty.png",
-    "CostPrice": "50",
+    "CostPrice": "599.99",
     "MSRP": "50",
     "QtyOnHand": "1",
     "QtyOnBackOrder": "0",
