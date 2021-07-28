@@ -7,8 +7,8 @@
     "GraphicName": "crashb.png",
     "CostPrice": "50",
     "MSRP": "50",
-    "QtyOnHand": "1",
-    "QtyOnBackOrder": "0",
+    "QtyOnHand": "25",
+    "QtyOnBackOrder": "25",
     "Description": "This is a temple-run type game with a furry mascot"
   },
   {
@@ -67,8 +67,8 @@
     "GraphicName": "marioparty.png",
     "CostPrice": "50",
     "MSRP": "50",
-    "QtyOnHand": "1",
-    "QtyOnBackOrder": "0",
+    "QtyOnHand": "25",
+    "QtyOnBackOrder": "25",
     "Description": "A fun multiplayer board game style video game for 2-4 players"
   },
   {
